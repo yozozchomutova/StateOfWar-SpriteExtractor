@@ -1,0 +1,1 @@
+# StateOfWar-SpriteExtractor
