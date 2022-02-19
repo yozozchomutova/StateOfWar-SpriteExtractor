@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SOWSpriteDataOpener:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SOWSpriteDataOpener_jar</output-path>
+    <root id="archive" name="SOWSpriteDataOpener.jar">
+      <element id="module-output" name="SOWSpriteDataOpener" />
+    </root>
+  </artifact>
+</component>
